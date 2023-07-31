@@ -4,8 +4,8 @@
 
 - <b>ASP.NET Projects Using MVC Structure</b>
   - [CRUD Based Application Using API On MVC Structure](https://github.com/SyedIftikharZaidi/Joyco-Project)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Deep Learning & Machine Learning Projects </b>
+  - [Malicious and Phishing Detection Using ML](https://github.com/SyedIftikharZaidi/Malicious-And-Phishing-URL-Detection-using-ML)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
