@@ -6,11 +6,10 @@
   - [CRUD Based Application Using API On MVC Structure](https://github.com/SyedIftikharZaidi/Joyco-Project)
 - <b>Deep Learning & Machine Learning Projects </b>
   - [Malicious and Phishing Detection Using ML](https://github.com/SyedIftikharZaidi/Malicious-And-Phishing-URL-Detection-using-ML)
+  - [Word Predictor Using LSTM](https://github.com/SyedIftikharZaidi/Deep_Learning/tree/main/LSTM) 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
+- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2> 🤳 Connect with me:</h2>
 
