@@ -3,15 +3,16 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Basic Practices Of ML Concepts & Algorithms](https://github.com/SyedIftikharZaidi/Joyco-Project)
-- <b>ASP.NET Projects Using MVC Structure</b>
-  - [CRUD Based Application Using API On MVC Structure](https://github.com/SyedIftikharZaidi/Joyco-Project)
+  - [Basic Practices Of ML Concepts & Algorithms](https://github.com/SyedIftikharZaidi/Machine_Learning)
 - <b>Deep Learning & Machine Learning Projects </b>
   - [Malicious and Phishing Detection Using ML](https://github.com/SyedIftikharZaidi/Malicious-And-Phishing-URL-Detection-using-ML)
   - [Word Predictor Using LSTM](https://github.com/SyedIftikharZaidi/Deep_Learning/tree/main/LSTM) 
-- <b>PowerShell</b>
 
-- [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>ASP.NET Projects Using MVC Structure</b>
+  - [CRUD Based Application Using API On MVC Structure](https://github.com/SyedIftikharZaidi/Joyco-Project)
+
+- <b>CyberSecurity Projects</b>
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 <h2> 🤳 Connect with me:</h2>
 
