@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Machine Learning</b>
+  - [Basic Practices Of ML Concepts & Algorithms](https://github.com/SyedIftikharZaidi/Joyco-Project)
 - <b>ASP.NET Projects Using MVC Structure</b>
   - [CRUD Based Application Using API On MVC Structure](https://github.com/SyedIftikharZaidi/Joyco-Project)
 - <b>Deep Learning & Machine Learning Projects </b>
