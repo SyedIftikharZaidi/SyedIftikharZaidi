@@ -13,6 +13,7 @@
 
 - <b>CyberSecurity Projects</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [WHOIS Tool with GUI For Windows](https://github.com/SyedIftikharZaidi/WhoisTool_for_windows-GUI-)
 
 <h2> 🤳 Connect with me:</h2>
 
