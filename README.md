@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>CyberSecurity Projects</b>
+  - [Projects](https://github.com/SyedIftikharZaidi/Cyber-Security-Projects)
+  - [WHOIS Tool with GUI For Windows](https://github.com/SyedIftikharZaidi/WhoisTool_for_windows-GUI-)
+
 - <b>Machine Learning</b>
   - [Basic Practices Of ML Concepts & Algorithms](https://github.com/SyedIftikharZaidi/Machine_Learning)
 - <b>Deep Learning & Machine Learning Projects </b>
@@ -10,10 +14,6 @@
 
 - <b>ASP.NET Projects Using MVC Structure</b>
   - [CRUD Based Application Using API On MVC Structure](https://github.com/SyedIftikharZaidi/Joyco-Project)
-
-- <b>CyberSecurity Projects</b>
-  - [Projects](https://github.com/SyedIftikharZaidi/Cyber-Security-Projects)
-  - [WHOIS Tool with GUI For Windows](https://github.com/SyedIftikharZaidi/WhoisTool_for_windows-GUI-)
 
 <h2> 🤳 Connect with me:</h2>
 
