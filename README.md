@@ -1,6 +1,6 @@
 <h1>Hi,Syed Iftikhar Mehdi! <br/><a href="https://github.com/SyedIftikharZaidi">AI & ML Researcher</a>, <a href="https://www.linkedin.com/in/iftikharzaidi-4107b320/">Cybersecurity | Penetration Tester</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻Projects & Labs:</h2>
 
 - <b>CyberSecurity Projects</b>
   - [Projects](https://github.com/SyedIftikharZaidi/Cyber-Security-Projects)
