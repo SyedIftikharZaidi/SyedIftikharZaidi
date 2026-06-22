@@ -1,4 +1,4 @@
-<h1>Hi,Syed Iftikhar Mehdi! <br/><a href="https://github.com/SyedIftikharZaidi">AI & ML Researcher</a>, <a href="https://www.linkedin.com/in/iftikharzaidi-4107b320/">Cybersecurity | Penetration Tester</a>
+<h1>Hi,Syed Iftikhar Mehdi! <br/><a href="https://github.com/SyedIftikharZaidi">Security Researcher & Analyst</a>, <a href="https://www.linkedin.com/in/iftikharzaidi-4107b320/">| IR & Threat Hunter |</a>
 
 <h2>👨‍💻Projects & Labs:</h2>
 
